@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Home-task\7\bin\Debug\net9.0\Home-task.exe
+C:\Users\Admin\Desktop\Home-task\7\bin\Debug\net9.0\Home-task.deps.json
+C:\Users\Admin\Desktop\Home-task\7\bin\Debug\net9.0\Home-task.runtimeconfig.json
+C:\Users\Admin\Desktop\Home-task\7\bin\Debug\net9.0\Home-task.dll
+C:\Users\Admin\Desktop\Home-task\7\bin\Debug\net9.0\Home-task.pdb
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\Home-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\Home-task.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\Home-task.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\Home-task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\Home-task.dll
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\refint\Home-task.dll
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\Home-task.pdb
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\Home-task.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home-task\7\obj\Debug\net9.0\ref\Home-task.dll
