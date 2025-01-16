@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\class_car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\class_car.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\class_car.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\class_car.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\class_car.sourcelink.json
+C:\Users\Admin\Desktop\Home-task\class\class_car\bin\Debug\net9.0\class_car.exe
+C:\Users\Admin\Desktop\Home-task\class\class_car\bin\Debug\net9.0\class_car.deps.json
+C:\Users\Admin\Desktop\Home-task\class\class_car\bin\Debug\net9.0\class_car.runtimeconfig.json
+C:\Users\Admin\Desktop\Home-task\class\class_car\bin\Debug\net9.0\class_car.dll
+C:\Users\Admin\Desktop\Home-task\class\class_car\bin\Debug\net9.0\class_car.pdb
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\class_car.dll
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\refint\class_car.dll
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\class_car.pdb
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\class_car.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home-task\class\class_car\obj\Debug\net9.0\ref\class_car.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\calc.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\calc.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\calc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\calc.sourcelink.json
+C:\Users\Admin\Desktop\Home-task\class\calc\bin\Debug\net9.0\calc.exe
+C:\Users\Admin\Desktop\Home-task\class\calc\bin\Debug\net9.0\calc.deps.json
+C:\Users\Admin\Desktop\Home-task\class\calc\bin\Debug\net9.0\calc.runtimeconfig.json
+C:\Users\Admin\Desktop\Home-task\class\calc\bin\Debug\net9.0\calc.dll
+C:\Users\Admin\Desktop\Home-task\class\calc\bin\Debug\net9.0\calc.pdb
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\calc.dll
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\refint\calc.dll
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\calc.pdb
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\calc.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home-task\class\calc\obj\Debug\net9.0\ref\calc.dll
