@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Country
 {
     public string name;

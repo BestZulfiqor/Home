@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Home-task\class\user\bin\Debug\net9.0\user.exe
+C:\Users\Admin\Desktop\Home-task\class\user\bin\Debug\net9.0\user.deps.json
+C:\Users\Admin\Desktop\Home-task\class\user\bin\Debug\net9.0\user.runtimeconfig.json
+C:\Users\Admin\Desktop\Home-task\class\user\bin\Debug\net9.0\user.dll
+C:\Users\Admin\Desktop\Home-task\class\user\bin\Debug\net9.0\user.pdb
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\user.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\user.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\user.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\user.sourcelink.json
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\user.dll
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\refint\user.dll
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\user.pdb
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\user.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home-task\class\user\obj\Debug\net9.0\ref\user.dll
