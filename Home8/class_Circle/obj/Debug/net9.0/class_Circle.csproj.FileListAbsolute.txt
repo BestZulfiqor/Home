@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\class_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\class_Circle.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\class_Circle.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\class_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\class_Circle.sourcelink.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\bin\Debug\net9.0\class_Circle.exe
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\bin\Debug\net9.0\class_Circle.deps.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\bin\Debug\net9.0\class_Circle.runtimeconfig.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\bin\Debug\net9.0\class_Circle.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\bin\Debug\net9.0\class_Circle.pdb
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\class_Circle.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\refint\class_Circle.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\class_Circle.pdb
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\class_Circle.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_Circle\obj\Debug\net9.0\ref\class_Circle.dll

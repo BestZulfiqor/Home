@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\class_Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\class_Date.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\class_Date.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\class_Date.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\class_Date.sourcelink.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\bin\Debug\net9.0\class_Date.exe
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\bin\Debug\net9.0\class_Date.deps.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\bin\Debug\net9.0\class_Date.runtimeconfig.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\bin\Debug\net9.0\class_Date.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\bin\Debug\net9.0\class_Date.pdb
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\class_Date.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\refint\class_Date.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\class_Date.pdb
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\class_Date.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_Date\obj\Debug\net9.0\ref\class_Date.dll

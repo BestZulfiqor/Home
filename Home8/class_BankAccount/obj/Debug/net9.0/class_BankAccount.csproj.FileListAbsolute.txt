@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\class_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\class_BankAccount.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\class_BankAccount.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\class_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\class_BankAccount.sourcelink.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\bin\Debug\net9.0\class_BankAccount.exe
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\bin\Debug\net9.0\class_BankAccount.deps.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\bin\Debug\net9.0\class_BankAccount.runtimeconfig.json
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\bin\Debug\net9.0\class_BankAccount.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\bin\Debug\net9.0\class_BankAccount.pdb
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\class_BankAccount.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\refint\class_BankAccount.dll
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\class_BankAccount.pdb
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\class_BankAccount.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home-task\Home8\class_BankAccount\obj\Debug\net9.0\ref\class_BankAccount.dll
