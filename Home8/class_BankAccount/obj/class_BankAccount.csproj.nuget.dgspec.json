@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Home-task\\Home8\\class_BankAccount\\class_BankAccount.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Home-task\\home8\\class_BankAccount\\class_BankAccount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Home-task\\Home8\\class_BankAccount\\class_BankAccount.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Home-task\\home8\\class_BankAccount\\class_BankAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Home-task\\Home8\\class_BankAccount\\class_BankAccount.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Home-task\\home8\\class_BankAccount\\class_BankAccount.csproj",
         "projectName": "class_BankAccount",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Home-task\\Home8\\class_BankAccount\\class_BankAccount.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Home-task\\home8\\class_BankAccount\\class_BankAccount.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Home-task\\Home8\\class_BankAccount\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Home-task\\home8\\class_BankAccount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
