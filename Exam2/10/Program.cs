@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 class Hero
 {
     public string Name { get; set; }
@@ -38,16 +38,18 @@ class Hero
     public void ShowInfo()
     {
         System.Console.Write($"Имя: {Name} \nЗдоровье: {Health} \nУровень: {Level} \nИнвентарь: ");
-        if (Items[0] == null)
+        for (int i = 0; i < Items.Length; i++)
         {
-            Console.WriteLine("пусто");
-        }
-        else
-        {
-            foreach (var item in Items)
+            if (Items[0] == null)
             {
-            System.Console.Write(item + " ");
+                System.Console.WriteLine("Пусто");
+                break;
             }
+            else if (Items[i] == null)
+            {
+                break;
+            }
+            System.Console.Write(Items[0] + " ");
         }
         Console.WriteLine();
     }
@@ -56,10 +58,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Hero hero = new Hero("Alex");
-        hero.Health = 100;
-        hero.Level = 1;
-        hero.ShowInfo();
+        Hero hero = new Hero("Alex", 10);
+        while (hero.Health > 0)
+        {
+            System.Console.Write($"Damage: ");
+            int damage = int.Parse(Console.ReadLine());
+            hero.TakeDamage(damage);
+            System.Console.Write("Add item: ");
+            string item = Console.ReadLine();
+            hero.AddItem(item);
+            System.Console.Write("Heal ");
+            int heal = int.Parse(Console.ReadLine());
+            hero.Heal(heal);
+            hero.ShowInfo();
         hero.AddItem("меч");
         hero.TakeDamage(25);
         hero.Heal(20);
