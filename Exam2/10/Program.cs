@@ -1,15 +1,16 @@
-using System;
+﻿using System;
 class Hero
 {
     public string Name { get; set; }
-    public int Health { get; set; }
+    public int Health = 100;
     public int Level { get; set; }
     public string[] Items;
-    public Hero(string name)
+    int increment = 0;
+    public Hero(string name, int amount, int health = 100)
     {
         System.Console.WriteLine("Создаем героя...");
         Name = name;
-        Items = new string[10];
+        Items = new string[amount];
     }
     public void TakeDamage(int damage)
     {
@@ -23,12 +24,8 @@ class Hero
     }
     public void AddItem(string item)
     {
-        Items[Items.Length - 1] = item;
-        System.Console.Write($"Герой получает {item}... \nИнвентарь: {item}");
-        foreach (var element in Items)
-        {
-            System.Console.Write(element + " ");
-        }
+        Items[increment] = item;
+        increment++;
     }
     public void LevelUp()
     {
@@ -61,20 +58,31 @@ class Program
         Hero hero = new Hero("Alex", 10);
         while (hero.Health > 0)
         {
-            System.Console.Write($"Damage: ");
-            int damage = int.Parse(Console.ReadLine());
-            hero.TakeDamage(damage);
-            System.Console.Write("Add item: ");
-            string item = Console.ReadLine();
-            hero.AddItem(item);
-            System.Console.Write("Heal ");
-            int heal = int.Parse(Console.ReadLine());
-            hero.Heal(heal);
-            hero.ShowInfo();
-        hero.AddItem("меч");
-        hero.TakeDamage(25);
-        hero.Heal(20);
-        hero.LevelUp();
-        hero.ShowInfo();
+            System.Console.Write("Enter command: ");
+            string s = Console.ReadLine();
+            switch (s)
+            {
+                case "1":
+                    hero.ShowInfo();
+                    break;
+                case "2":
+                    System.Console.Write("Enter damage: ");
+                    int damage = int.Parse(Console.ReadLine());
+                    hero.TakeDamage(damage);
+                    break;
+                case "3":
+                    System.Console.Write("Healing: ");
+                    int heal = int.Parse(Console.ReadLine());
+                    hero.Heal(heal);
+                    break;
+                case "4":
+                    System.Console.Write("Level up");
+                    hero.LevelUp();
+                    break;
+                default:
+                    break;
+            }
+        System.Console.WriteLine("Hero is die!");
+        }
     }
 }
