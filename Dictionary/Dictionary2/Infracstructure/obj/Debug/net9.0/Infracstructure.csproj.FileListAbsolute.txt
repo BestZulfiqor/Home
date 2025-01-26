@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\bin\Debug\net9.0\Infracstructure.deps.json
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\bin\Debug\net9.0\Infracstructure.dll
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\bin\Debug\net9.0\Infracstructure.pdb
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\obj\Debug\net9.0\Infracstructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\obj\Debug\net9.0\Infracstructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\obj\Debug\net9.0\Infracstructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\obj\Debug\net9.0\Infracstructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\obj\Debug\net9.0\Infracstructure.dll
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\obj\Debug\net9.0\refint\Infracstructure.dll
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\obj\Debug\net9.0\Infracstructure.pdb
+C:\Users\Admin\Desktop\Dictionary\Dictionary2\Infracstructure\obj\Debug\net9.0\ref\Infracstructure.dll

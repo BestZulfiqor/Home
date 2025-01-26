@@ -21,10 +21,10 @@ class Program
 		studentManager.AddStudent(student);
 		studentManager.AddStudent(student1);
 		studentManager.AddStudent(student2);
-		// studentManager.RemoveStudent(2);
+		studentManager.RemoveStudent(2);
 		studentManager.ShowInfo();
-		// studentManager.FindByName("Zul");
-		// studentManager.GetExcellentStudents();
+		studentManager.FindByName("Zul");
+		studentManager.GetExcellentStudents();
 		studentManager.GetAverageAge();
 		studentManager.FindYoungestStudent();
 		studentManager.GetOldestStudent();
