@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Inheritance\Consoel\bin\Debug\net9.0\Consoel.exe
+C:\Users\Admin\Desktop\Inheritance\Consoel\bin\Debug\net9.0\Consoel.deps.json
+C:\Users\Admin\Desktop\Inheritance\Consoel\bin\Debug\net9.0\Consoel.runtimeconfig.json
+C:\Users\Admin\Desktop\Inheritance\Consoel\bin\Debug\net9.0\Consoel.dll
+C:\Users\Admin\Desktop\Inheritance\Consoel\bin\Debug\net9.0\Consoel.pdb
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\Consoel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\Consoel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\Consoel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\Consoel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\Consoel.dll
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\refint\Consoel.dll
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\Consoel.pdb
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\Consoel.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Inheritance\Consoel\obj\Debug\net9.0\ref\Consoel.dll
