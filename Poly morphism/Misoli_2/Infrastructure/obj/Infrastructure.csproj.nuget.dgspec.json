@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Home-task\\Inheritance\\Consoel\\Consoel.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Poly morphism\\Misoli_2\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Home-task\\Inheritance\\Consoel\\Consoel.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Poly morphism\\Misoli_2\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Home-task\\Inheritance\\Consoel\\Consoel.csproj",
-        "projectName": "Consoel",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Home-task\\Inheritance\\Consoel\\Consoel.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Poly morphism\\Misoli_2\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Poly morphism\\Misoli_2\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Home-task\\Inheritance\\Consoel\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Poly morphism\\Misoli_2\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,7 +34,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -50,7 +56,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
