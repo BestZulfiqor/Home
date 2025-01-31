@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO.Compression;
 using Infrastructure;
 
 class Program
@@ -40,6 +41,48 @@ class Program
             System.Console.WriteLine($"Name: {item.GetName()}, Price: {item.GetPrice()}, Quantity: {item.GetQuantity()}");
         }
 
-        
+        while (true)
+        {
+            System.Console.WriteLine("Выберите операцию: \n1. Добавление продукта.\n2. Удаление продукта.\n3. Просмотр всех продуктов.\n4. Создание заказа.\n5. Подсчёт общей суммы заказа\n");
+            char ch = char.Parse(Console.ReadLine());
+            switch (ch)
+            {
+                case '1':
+                    System.Console.WriteLine("1. Добавление продукта.");
+                    Product product1 = new Product("Apple", 20, 50);
+                    System.Console.Write("Enter product name: ");
+                    product1.SetName(Console.ReadLine());
+                    System.Console.Write("Enter price of product: ");
+                    product1.SetPrice(double.Parse(Console.ReadLine()));
+                    System.Console.Write("Enter quantity of product");
+                    product1.SetQuantity(int.Parse(Console.ReadLine()));
+                    storeManager.AddProduct(product1);
+                    break;
+                case '2':
+                    System.Console.WriteLine("Введите имя продукта который хотите удалить.");
+                    string name = Console.ReadLine();
+                    if (storeManager.RemoveProduct(name))
+                    {
+                        System.Console.WriteLine($"Product with this {name} was deleted");
+                    }
+                    else System.Console.WriteLine($"There is no product with this {name}");
+                    break;
+                case '3':
+                    storeManager.GetAllProducts();
+                    break;
+                case '4':
+                    Order order1 = new Order();
+                    string ordername = Console.ReadLine();
+                    order1.SetName(ordername);
+                    order1.SetPrice();
+                    break;
+                case '5':
+                    storeManager.AddProduct(product);
+                    break;
+                default:
+                    System.Console.WriteLine("There is no command!");
+                    break;
+            }
+        }
     }
 }

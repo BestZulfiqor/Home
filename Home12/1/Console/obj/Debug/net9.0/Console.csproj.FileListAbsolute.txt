@@ -16,3 +16,22 @@ C:\Users\Admin\Desktop\Misoli Sinfi\1\Console\obj\Debug\net9.0\refint\Console.dl
 C:\Users\Admin\Desktop\Misoli Sinfi\1\Console\obj\Debug\net9.0\Console.pdb
 C:\Users\Admin\Desktop\Misoli Sinfi\1\Console\obj\Debug\net9.0\Console.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Misoli Sinfi\1\Console\obj\Debug\net9.0\ref\Console.dll
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\bin\Debug\net9.0\Console.exe
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\bin\Debug\net9.0\Console.deps.json
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\bin\Debug\net9.0\Console.runtimeconfig.json
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\bin\Debug\net9.0\Console.dll
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\bin\Debug\net9.0\Console.pdb
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.sourcelink.json
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.csproj.Up2Date
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.dll
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\refint\Console.dll
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.pdb
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\Console.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home-task\Home12\1\Console\obj\Debug\net9.0\ref\Console.dll

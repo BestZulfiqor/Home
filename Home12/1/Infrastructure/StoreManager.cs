@@ -33,7 +33,7 @@ public class StoreManager
         }
         System.Console.WriteLine();
     }
-    public void RemoveProduct(string name)
+    public bool RemoveProduct(string name)
     {
         System.Console.WriteLine("Удаление по имени: ");
         foreach (var item in products)
@@ -41,9 +41,10 @@ public class StoreManager
             if (item.GetName() == name)
             {
                 products.Remove(item);
+                return true;
             }
         }
-        System.Console.WriteLine();
+        return false;
     }
     public List<Product> GetProductsByPriceRange(double min, double max)
     {
