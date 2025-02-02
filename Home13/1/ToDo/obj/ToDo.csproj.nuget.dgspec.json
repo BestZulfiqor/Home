@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Home13\\1\\ToDo\\ToDo.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\ToDo\\ToDo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Home13\\1\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Home13\\1\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Home13\\1\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Home13\\1\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Home13\\1\\ToDo\\ToDo.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\ToDo\\ToDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Home13\\1\\ToDo\\ToDo.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\ToDo\\ToDo.csproj",
         "projectName": "ToDo",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Home13\\1\\ToDo\\ToDo.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\ToDo\\ToDo.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Home13\\1\\ToDo\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Home13\\1\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Home13\\1\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Home-task\\home13\\1\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
