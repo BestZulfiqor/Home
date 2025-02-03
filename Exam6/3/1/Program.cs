@@ -34,8 +34,19 @@ class Program
                     userManager.DeleteUser(int.Parse(Console.ReadLine()));
                     break;
                 case '3':
-                    System.Console.WriteLine("Change role");
-                    userManager.ChangeRole(int.Parse(Console.ReadLine()), true);
+                    Console.Write("Enter user ID: ");
+                    if (!int.TryParse(Console.ReadLine(), out int userId))
+                    {
+                        Console.WriteLine("Invalid ID format.");
+                        break;
+                    }
+                    Console.Write("Enter new role (Admin/Regular): ");
+                    string newRoleInput = Console.ReadLine().ToLower();
+
+                    Role newRole = newRoleInput == "admin"
+                        ? new Role("Administrator", new List<string> { "Manage Users", "Assign Roles" })
+                        : new Role("Regular User", new List<string> { "View Info" });
+                    userManager.ChangeRole(userId, newRole);
                     break;
                 case '4':
                     System.Console.WriteLine("All users");
@@ -43,7 +54,6 @@ class Program
                     break;
                 case '5':
                     return;
-                    break;
                 default:
                     break;
             }

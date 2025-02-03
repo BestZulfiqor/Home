@@ -2,16 +2,8 @@ namespace inf;
 
 public interface IUserActions
 {
-    public void CreateUser()
-    {
-        
-    }
-    public void DeleteUser()
-    {
-        
-    }
-    public void ChangeRole()
-    {
-        
-    }
+    void CreateUser(User user);
+    void DeleteUser(int id);
+    void ChangeRole(int Id, bool role);
+    void DisplayInfo();
 }

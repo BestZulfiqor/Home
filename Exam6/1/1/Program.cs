@@ -42,7 +42,7 @@ class Program
         string name = "";
         for (var i = 0; i < iceCream.Count; i++)
         {
-            if (iceCream[i] )
+            if (iceCream[i] > )
             {
                 
             }
@@ -58,5 +58,4 @@ public class IceCream
     {
         keyValuePairs[Name] = SweetnessValue;
     }
-    
 }

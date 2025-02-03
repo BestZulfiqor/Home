@@ -21,7 +21,7 @@ public class UserManager : IUserActions
         }
         System.Console.WriteLine("User with id not found");
     }
-    public void ChangeRole(int Id, bool role)
+    public void ChangeRole(int Id, Role role)
     {
         foreach (var item in users)
         {
@@ -35,7 +35,7 @@ public class UserManager : IUserActions
     {
         foreach (var item in users)
         {
-            System.Console.WriteLine(item);
+            item.DisplayInfo();
         }
     }
 }
