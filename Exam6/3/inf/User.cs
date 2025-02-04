@@ -1,15 +1,33 @@
-namespace inf;
+using System.Text.RegularExpressions;
+
+namespace UserLibrary;
 
 public class User
 {
-    public int ID { get; set; }
+    private static int counter = 1;
+    public int ID { get; }
     public string Name { get; set; }
-    public string Email { get; set; }
-    public Role Role { get; set; }
-    public User()
+    private string email;
+    public string Email
     {
-        ID++;
+        get => email;
+        set
+        {
+            if (!Regex.IsMatch(value, @"^[^@\s]+@[^@\s]+\.[^@\s]+$"))
+                throw new ArgumentException("Invalid email format");
+            email = value;
+        }
     }
+    public Role Role { get; set; }
+
+    public User(string name, string email, Role role)
+    {
+        ID = counter++;
+        Name = name;
+        Email = email;
+        Role = role;
+    }
+
     public virtual void DisplayInfo()
     {
         Console.WriteLine($"ID: {ID}, Name: {Name}, Email: {Email}, Role: {Role.RoleName}");

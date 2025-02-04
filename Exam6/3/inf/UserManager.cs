@@ -1,41 +1,46 @@
-namespace inf;
+namespace UserLibrary;
 
 public class UserManager : IUserActions
 {
-    List<User> users = new List<User>();
+    private List<User> users = new();
+
     public void CreateUser(User user)
     {
         users.Add(user);
-        System.Console.WriteLine("Youre added used");
+        Console.WriteLine($"User {user.Name} added.");
     }
+
     public void DeleteUser(int id)
     {
-        foreach (var item in users)
+        var user = users.FirstOrDefault(u => u.ID == id);
+        if (user != null)
         {
-            if (item.ID == id)
-            {
-                users.Remove(item);
-                System.Console.WriteLine($"Removed user with id: {id}");
-                return;
-            }
+            users.Remove(user);
+            Console.WriteLine($"User {id} removed.");
         }
-        System.Console.WriteLine("User with id not found");
+        else
+        {
+            Console.WriteLine("User not found.");
+        }
     }
-    public void ChangeRole(int Id, Role role)
+
+    public void ChangeRole(int id, Role newRole)
     {
-        foreach (var item in users)
+        var user = users.FirstOrDefault(u => u.ID == id);
+        if (user != null)
         {
-            if (item.ID == Id)
-            {
-                item.Role = role;
-            }
+            user.Role = newRole;
+            Console.WriteLine($"User {id} role changed to {newRole.RoleName}.");
+        }
+        else
+        {
+            Console.WriteLine("User not found.");
         }
     }
+
     public void DisplayInfo()
     {
-        foreach (var item in users)
-        {
-            item.DisplayInfo();
-        }
+        foreach (var user in users)
+            user.DisplayInfo();
     }
 }

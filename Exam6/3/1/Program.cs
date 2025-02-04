@@ -1,39 +1,47 @@
 ﻿using System;
-using System.Reflection.Metadata;
-using System.Reflection.PortableExecutable;
-using inf;
+using UserLibrary;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        UserManager userManager = new UserManager();
+        UserManager userManager = new();
         while (true)
         {
-            System.Console.WriteLine("1. Add");
-            System.Console.WriteLine("2. Remove");
-            System.Console.WriteLine("3. ChangeRole");
-            System.Console.WriteLine("4. Display list of users");
-            System.Console.WriteLine("5. Exit program");
-            char ch = char.Parse(Console.ReadLine());
-            switch (ch)
+            Console.WriteLine("\n1. Add User");
+            Console.WriteLine("2. Remove User");
+            Console.WriteLine("3. Change Role");
+            Console.WriteLine("4. Display Users");
+            Console.WriteLine("5. Exit");
+            Console.Write("Choose an option: ");
+
+            string choice = Console.ReadLine();
+            switch (choice)
             {
-                case '1':
-                    System.Console.WriteLine("Add User");
-                    User user1 = new User();
-                    System.Console.Write("Name: ");
+                case "1":
+                    Console.Write("Enter name: ");
                     string name = Console.ReadLine();
-                    System.Console.Write("Email: ");
-                    string Email = Console.ReadLine();
-                    System.Console.Write("Role: ");
-                    bool role = bool.Parse(Console.ReadLine());
-                    userManager.CreateUser(user1);
+                    Console.Write("Enter email: ");
+                    string email = Console.ReadLine();
+                    Console.Write("Enter role (Admin/Regular): ");
+                    string roleInput = Console.ReadLine().ToLower();
+
+                    User newUser = roleInput == "admin"
+                        ? new AdminUser(name, email)
+                        : new RegularUser(name, email);
+
+                    userManager.CreateUser(newUser);
                     break;
-                case '2':
-                    System.Console.Write("Delete user \nEnter id: ");
-                    userManager.DeleteUser(int.Parse(Console.ReadLine()));
+
+                case "2":
+                    Console.Write("Enter user ID to delete: ");
+                    if (int.TryParse(Console.ReadLine(), out int deleteId))
+                        userManager.DeleteUser(deleteId);
+                    else
+                        Console.WriteLine("Invalid ID format.");
                     break;
-                case '3':
+
+                case "3":
                     Console.Write("Enter user ID: ");
                     if (!int.TryParse(Console.ReadLine(), out int userId))
                     {
@@ -46,18 +54,21 @@ class Program
                     Role newRole = newRoleInput == "admin"
                         ? new Role("Administrator", new List<string> { "Manage Users", "Assign Roles" })
                         : new Role("Regular User", new List<string> { "View Info" });
+
                     userManager.ChangeRole(userId, newRole);
                     break;
-                case '4':
-                    System.Console.WriteLine("All users");
+
+                case "4":
                     userManager.DisplayInfo();
                     break;
-                case '5':
+
+                case "5":
                     return;
+
                 default:
+                    Console.WriteLine("Invalid option, try again.");
                     break;
             }
-
         }
     }
 }

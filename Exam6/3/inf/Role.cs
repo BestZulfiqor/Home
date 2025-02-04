@@ -1,14 +1,15 @@
-namespace inf;
+namespace UserLibrary;
 
 public class Role
 {
-    public bool RoleName { get; set; }
-    public List<string> Permission { get; set; }
-    public void GetPermission()
+    public string RoleName { get; set; }
+    public List<string> Permissions { get; set; } = new();
+
+    public Role(string roleName, List<string> permissions)
     {
-        foreach (var item in Permission)
-        {
-            System.Console.WriteLine(item + " ");
-        }
+        RoleName = roleName;
+        Permissions = permissions;
     }
+
+    public List<string> GetPermissions() => Permissions;
 }

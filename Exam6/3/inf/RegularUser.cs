@@ -1,9 +1,12 @@
-namespace inf;
+namespace UserLibrary;
 
 public class RegularUser : User
 {
+    public RegularUser(string name, string email) 
+        : base(name, email, new Role("Regular User", new List<string> { "View Info" })) { }
+
     public override void DisplayInfo()
     {
-        System.Console.WriteLine("Это простой пользователь");
+        Console.WriteLine($"[User] {Name} ({Email}) - ID: {ID}");
     }
 }

@@ -9,15 +9,3 @@ C:\Users\Admin\Desktop\Exam6\3\inf\obj\Debug\net9.0\inf.dll
 C:\Users\Admin\Desktop\Exam6\3\inf\obj\Debug\net9.0\refint\inf.dll
 C:\Users\Admin\Desktop\Exam6\3\inf\obj\Debug\net9.0\inf.pdb
 C:\Users\Admin\Desktop\Exam6\3\inf\obj\Debug\net9.0\ref\inf.dll
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\bin\Debug\net9.0\inf.deps.json
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\bin\Debug\net9.0\inf.dll
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\bin\Debug\net9.0\inf.pdb
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\inf.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\inf.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\inf.AssemblyInfo.cs
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\inf.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\inf.sourcelink.json
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\inf.dll
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\refint\inf.dll
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\inf.pdb
-C:\Users\Admin\Desktop\Home-task\Exam6\3\inf\obj\Debug\net9.0\ref\inf.dll
