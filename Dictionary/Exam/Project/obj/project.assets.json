@@ -27,34 +27,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "/home/zulfiqor/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Home-task\\Dictionary\\Exam\\Project\\Project.csproj",
+      "projectUniqueName": "/home/zulfiqor/Projects/Home/Dictionary/Exam/Project/Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Home-task\\Dictionary\\Exam\\Project\\Project.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Home-task\\Dictionary\\Exam\\Project\\obj\\",
+      "projectPath": "/home/zulfiqor/Projects/Home/Dictionary/Exam/Project/Project.csproj",
+      "packagesPath": "/home/zulfiqor/.nuget/packages/",
+      "outputPath": "/home/zulfiqor/Projects/Home/Dictionary/Exam/Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/zulfiqor/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\Home-task\\Dictionary\\Exam\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Home-task\\Dictionary\\Exam\\ClassLibrary\\ClassLibrary.csproj"
+            "/home/zulfiqor/Projects/Home/Dictionary/Exam/ClassLibrary/ClassLibrary.csproj": {
+              "projectPath": "/home/zulfiqor/Projects/Home/Dictionary/Exam/ClassLibrary/ClassLibrary.csproj"
             }
           }
         }
@@ -90,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.116/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

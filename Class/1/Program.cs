@@ -25,15 +25,17 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		Student student = new Student();
-		student.name = "Zulfiqor";
-		student.surname = "Alimamatov";
-		student.age = 20;
-		student.address = "Assadullo Gulomov";
-		student.grades = new int[]{100,100,100,100};
-		string info = student.GetInfo();
+        Student student = new Student
+        {
+            name = "Zulfiqor",
+            surname = "Alimamatov",
+            age = 20,
+            address = "Assadullo Gulomov",
+            grades = [100, 100, 100, 100]
+        };
+        string info = student.GetInfo();
 		string grades = student.AvaregeOfGrades();
-		System.Console.WriteLine(info);
-		System.Console.WriteLine(grades);
+		Console.WriteLine(info);
+		Console.WriteLine(grades);
 	}
 }

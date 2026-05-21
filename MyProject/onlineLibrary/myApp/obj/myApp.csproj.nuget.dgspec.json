@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\myApp\\myApp.csproj": {}
+    "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/myApp/myApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\Library\\Library.csproj": {
+    "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/Library/Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\Library\\Library.csproj",
+        "projectUniqueName": "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/Library/Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\Library\\obj\\",
+        "projectPath": "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/Library/Library.csproj",
+        "packagesPath": "/home/zulfiqor/.nuget/packages/",
+        "outputPath": "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/Library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/zulfiqor/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,36 +60,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.116/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\myApp\\myApp.csproj": {
+    "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/myApp/myApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\myApp\\myApp.csproj",
+        "projectUniqueName": "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/myApp/myApp.csproj",
         "projectName": "myApp",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\myApp\\myApp.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\myApp\\obj\\",
+        "projectPath": "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/myApp/myApp.csproj",
+        "packagesPath": "/home/zulfiqor/.nuget/packages/",
+        "outputPath": "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/myApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/zulfiqor/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\Library\\Library.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\MyProject\\onlineLibrary\\Library\\Library.csproj"
+              "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/Library/Library.csproj": {
+                "projectPath": "/home/zulfiqor/Projects/Home/MyProject/onlineLibrary/Library/Library.csproj"
               }
             }
           }
@@ -126,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.116/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

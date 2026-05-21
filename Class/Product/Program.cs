@@ -71,12 +71,12 @@ class Program
 		phone.Name = "Samsung Galaxy S21";
 		phone.Price = 1500;
 		phone.StockQuantity = 10;
-		System.Console.WriteLine(phone.CheckAvailability());
-		System.Console.WriteLine(phone.SetDiscount(20));
-		System.Console.WriteLine(phone.SellItem(3));
-		System.Console.WriteLine(phone.AddNewItems(5));
-		System.Console.WriteLine(phone.GetPriceTag());
-		System.Console.WriteLine(phone.CancelDiscount());
-		System.Console.WriteLine(phone.PromoCode("12345"));
+		Console.WriteLine(phone.CheckAvailability());
+		Console.WriteLine(phone.SetDiscount(20));
+		Console.WriteLine(phone.SellItem(3));
+		Console.WriteLine(phone.AddNewItems(5));
+		Console.WriteLine(phone.GetPriceTag());
+		Console.WriteLine(phone.CancelDiscount());
+		Console.WriteLine(phone.PromoCode("12345"));
 	}
 }
