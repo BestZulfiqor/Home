@@ -13,3 +13,6 @@ System.Console.WriteLine($"Even:{juft}");
 System.Console.WriteLine($"Odd:{toq}");
 System.Console.WriteLine($"Digit:{digit}");
 System.Console.WriteLine($"Sum:{sum}");
+
+
+// Given n. Print even, odd, digit and sum of numbers
